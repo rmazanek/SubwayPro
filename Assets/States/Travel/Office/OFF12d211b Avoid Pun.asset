@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF12d211b Avoid Pun
+  m_EditorClassIdentifier: 
+  storyText: 'After the meeting you make it clear to Alberta that you are completely
+    on board.
+
+
+    "This may be the idea that saves the world from climate change,"
+    you say.
+
+
+    She seems receptive.
+
+
+    "We were worried that you wouldn''t
+    cooperate, but tomorrow we''ll get your confidentiality agreement written up
+    and you can help with the next steps."
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: c00c719eb5d8cf441bf40dd140478f2f, type: 2}

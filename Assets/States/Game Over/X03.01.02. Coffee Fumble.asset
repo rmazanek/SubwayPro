@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: X03.01.02. Coffee Fumble
+  m_EditorClassIdentifier: 
+  storyText: 'Just as you thought, as you approach the subway gate you can hear the
+    train approaching. Your hands are full from the shop and you fumble getting out
+    your subway card at the gate. As you get through the gate you make a run for
+    it but the doors close before you get there. You hold onto hope for a second
+    because sometimes the doors open again as people block the doors. No luck today.
+
+
+    You
+    missed the train and will be late for work.
+
+
+    Ending 4 of 10.
+
+
+    Go back
+    to the beginning?
+
+
+    1. Yes.
+
+    2. No.
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: ca1c917db3689fd43b6585820edfab61, type: 2}
+  - {fileID: 11400000, guid: 4aee7c3d889a6f74fa27adc39ba545cf, type: 2}

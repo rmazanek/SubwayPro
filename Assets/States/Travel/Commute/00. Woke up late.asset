@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: 00. Woke up late
+  m_EditorClassIdentifier: 
+  storyText: 'You woke up late in New York City and need to get to work. Mondays
+    are the worst...
+
+
+    Are you going to eat breakfast?
+
+
+
+    1. Make toast.
+
+    2.
+    Take a granola bar.
+
+    3. No breakfast for me. I have to go.'
+  nextStates:
+  - {fileID: 11400000, guid: a4c614496ae4b4a4bbcc69a112ad7dfc, type: 2}
+  - {fileID: 11400000, guid: 746ca1b658c62c14d867e448d5b228b7, type: 2}
+  - {fileID: 11400000, guid: 9db9b3f4e81e93d41a41ae9d0546a575, type: 2}

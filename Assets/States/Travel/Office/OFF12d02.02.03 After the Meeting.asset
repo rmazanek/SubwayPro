@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF12d02.02.03 After the Meeting
+  m_EditorClassIdentifier: 
+  storyText: 'You make it through the meeting without revealing your true opinion.
+    At least that''s what you thought.
+
+
+    Before leaving the office you walk to
+    the bathroom. As you are washing up several large men enter the room followed
+    by Dr. Grove, who is carrying a syringe. They catch you by surprise and there
+    is no where to run.
+
+
+    Dr. Grove speaks. "We were disappointed that today''s
+    demonstration didn''t go as planned. Your lack of passion for the project was
+    evident in our discussion this morning. I hope you will find passion in your
+    new profession."
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 862fdf12596702648aad2e2a3fba2b44, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: 03.02. No Shop
+  m_EditorClassIdentifier: 
+  storyText: "You make it to the subway with plenty of time, but you're really hungry.
+    \n\nAs the train approaches the station you can feel the anticipation of the
+    growing mass of commuters behind you. You feel a little too close to the edge
+    of the platform but you try not to think about that. \n\nThe train swoops in
+    and is now slowing as it passes in front of you, replacing the darkness of the
+    tracks below.\n\nThe doors open and a familiar chime indicates that people should
+    exit the train.\n\nDo you step out of the way?\n\n1. Yes.\n2. Hell no. I'm getting
+    on that train. They can go around me."
+  nextStates:
+  - {fileID: 11400000, guid: b140522668b07d3499d5919536a6b5af, type: 2}
+  - {fileID: 11400000, guid: 569d216a5c4ca31479501fa882677cb5, type: 2}

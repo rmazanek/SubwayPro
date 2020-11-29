@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: 02.02b.02 Not That Car
+  m_EditorClassIdentifier: 
+  storyText: 'There''s something wrong with that car and you know it. You''d rather
+    not find out, so you quickly move down the platform to where the crowd looks
+    thin.
+
+
+    You are able to push your way into the car and think it''s full,
+    but somehow two people push in behind you, packing you in tight.
+
+
+    1. Continue.
+
+
+'
+  nextStates:
+  - {fileID: 11400000, guid: 7a76341b85360934e931db7e33275479, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF11e Feeling Stiff
+  m_EditorClassIdentifier: 
+  storyText: "Your neck has started to feel very sore.\n\nYou attempt to scratch
+    your chin but your arm feels stiff and heavy. You struggle to lift your hand,
+    and when your hand reaches your chin you feel a sharp prick. \n\nYou look down
+    at your hand and in the dim light of the conference room you can see you no longer
+    have fingers. Your hand is just a green stub with short fibrous needles scattered
+    around the surface. You attempt to pull your hand away, but it will no longer
+    move.\n\n1. Continue."
+  nextStates:
+  - {fileID: 11400000, guid: d4394ff0c03cb62488663504348d08fd, type: 2}

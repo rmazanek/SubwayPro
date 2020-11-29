@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF12d Boslo Shrub Not Hungry
+  m_EditorClassIdentifier: 
+  storyText: 'The video ends and the lights come back on.
+
+
+    "Our apologies" says
+    Dr. Grove, "but it appears the demonstration has started early."
+
+
+    He motions
+    towards Boslo.
+
+
+    Coming out of the sleeve of Boslo''s suit jacket is a green
+    stub with short fibrous needles scattered around the surface. From his collar
+    is another larger stub, albeit with Boslo''s wideset eyes and brown hair.
+
+
+    "We
+    hope you will find our product to be satisfactory in your efforts to combat climate
+    change. Mankind''s excess has been a problem for far too long, and we are happy
+    to partner with your firm to reduce our carbon footprint!"
+
+
+    1. Bolt for
+    the door.
+
+    2. Act normal.'
+  nextStates:
+  - {fileID: 11400000, guid: 166932923d00be445b3e8d158b7f3b18, type: 2}
+  - {fileID: 11400000, guid: c2b85e97fa174ae4fa1d6fd426824150, type: 2}

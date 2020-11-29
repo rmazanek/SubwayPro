@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF12b Boslo Prickly
+  m_EditorClassIdentifier: 
+  storyText: 'Once in the meeting room Alberta introduces you to a team sent by the
+    potential client. You shake hands with everyone but notice that Boslo is not
+    being his normally boisterous self. He''s being a little prickly.
+
+
+    You don''t
+    recognize someone in the room, but he is introduced to the clients as Dr. Grove.
+    He is supposed to assist with the demonstration. You were not aware there would
+    be a demonstration.
+
+
+    Alberta starts to describe the meeting agenda when
+    your stomach growls loudly. It interrupts her but she catches her train of thought.
+
+
+    1.
+    Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 71f03fa78effc7141a1b0e314c014133, type: 2}

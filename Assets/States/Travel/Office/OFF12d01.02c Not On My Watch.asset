@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF12d01.02c Not On My Watch
+  m_EditorClassIdentifier: 
+  storyText: 'You feel a small prick from the needle and a slight chill at the injection
+    site.
+
+
+    After a few moments you start to feel very stiff. One of the henchmen
+    yelps and jumps off of you. The other henchmen move away, but their job is done.
+
+
+    With
+    blurring vision you get sight of your hand and in the dim light of the conference
+    room you see that you no longer have fingers. Your hand is just a green stub
+    with short fibrous needles scattered over the surface.
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 398f01295e94b9b488acc53240b8ca7a, type: 2}

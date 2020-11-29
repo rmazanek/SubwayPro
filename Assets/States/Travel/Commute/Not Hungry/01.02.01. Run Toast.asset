@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: 01.02.01. Run Toast
+  m_EditorClassIdentifier: 
+  storyText: 'You nearly trip running down the steps of the subway entrance, but
+    you made it to the platform. You''re a little sweaty. You lean over the tracks
+    and stare into the darkness of the subway tunnel and can just barely make out
+    the train lights.
+
+
+    You wait about a minute before the train screeches to
+    a halt in front of you and the doors open.
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 2cf575f54d67b84489f3e6683a943989, type: 2}

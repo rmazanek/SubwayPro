@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF12d02.01 Join In
+  m_EditorClassIdentifier: 
+  storyText: 'The clients exchange excited glances and look back to you.
+
+
+    "Is
+    the supply chain in place?" one client asks you.
+
+
+    You look at Alberta and
+    Dr. Grove. They both study you for a moment, glancing down at your hands. Alberta
+    nods at you and addresses the clients.
+
+
+    "Yes, we have established unremarkable
+    contracts with several shipping companies to deliver the doses" she explains.
+    "The agreements shouldn''t raise any eyebrows and the first shipments can be
+    delivered in 3 weeks."
+
+
+    1. Avoid a cactus pun.
+
+    2. "And we''ll throw
+    in our friend Boslo here! He''s one sharp dresser!"'
+  nextStates:
+  - {fileID: 11400000, guid: 4757294da62a3f942b1e9d52ccc2ca70, type: 2}
+  - {fileID: 11400000, guid: e161d7343fd10834c841e542649b8571, type: 2}

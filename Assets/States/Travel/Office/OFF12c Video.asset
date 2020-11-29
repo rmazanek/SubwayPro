@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF12c Video
+  m_EditorClassIdentifier: 
+  storyText: 'The lights dim and the meeting opens with a short marketing video you''ve
+    seen a thousand times. It describes the biomedical research your company does
+    with some flash and buzzwords. The potential clients today have stated that they
+    want their crops to require less water, like cacti, and you''ve been working
+    on pretty mundane slides about water use statistics for cactus farms. Maybe Dr.
+    Grove is here to show them the product offerings.
+
+
+    You don''t really understand
+    why they need to see the full marketing video, but the sound is covering the
+    ruckus your stomach is making, and you are thankful for that.
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: d273d251bdea6e749966266896c48395, type: 2}

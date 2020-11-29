@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: 03.02.01.02a.01 Push Out Not Hungry
+  m_EditorClassIdentifier: 
+  storyText: 'You place your arms into a "v" in front of you to act like a plow.
+
+
+    While
+    quietly saying "excuse me" to absolve yourself of all impoliteness, you make
+    progress towards the doors. At the doorway several people who were waiting on
+    the platform try to squeeze past you the opposite way, into the train. They look
+    at you like you''ve done something wrong.
+
+
+    You climb the stairs and exit
+    the station. From here you only have a short walk to work.
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 2dcdc72640fc61f49bef644674c98929, type: 2}

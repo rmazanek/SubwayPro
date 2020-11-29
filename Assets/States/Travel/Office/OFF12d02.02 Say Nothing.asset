@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF12d02.02 Say Nothing
+  m_EditorClassIdentifier: 
+  storyText: 'You wait to see where this goes.
+
+
+    Before continuing you notice
+    Alberta study you for a moment, glancing down at your hands. She doesn''t seem
+    satisfied with what she sees. She looks at Boslo''s cactus body, then back at
+    you, and finally back at the clients. She hands out the presentation materials.
+
+
+    1.
+    "I need to go to the bathroom."
+
+    2. "You''ll find that this plan will significantly
+    reduce water waste... it''s fan-cactus!"
+
+    3. Say nothing.'
+  nextStates:
+  - {fileID: 11400000, guid: ede02909398431c439aba659cf1bcfd8, type: 2}
+  - {fileID: 11400000, guid: 9f1ee39640c99e7458abbd338226b69c, type: 2}
+  - {fileID: 11400000, guid: 7320097ab3988bc46802bf998de8f5ce, type: 2}

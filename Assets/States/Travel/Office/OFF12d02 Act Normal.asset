@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF12d02 Act Normal
+  m_EditorClassIdentifier: 
+  storyText: "You quickly try to hide your surprise. \n\nBoslo wasn't a particularly
+    useful coworker. At times he was even annoying and disruptive, but his antics
+    entertained you and your other coworkers. You'll miss having him as a conversation
+    subject.\n\n1. \"As you see, we can quickly deploy this across the target population
+    once we have settled on a covert delivery mechanism.\"\n2. Say nothing.\n"
+  nextStates:
+  - {fileID: 11400000, guid: 18f6abaff110a774caa3ce7040867f8a, type: 2}
+  - {fileID: 11400000, guid: d551c7f7264c6744fb1829c64587a554, type: 2}

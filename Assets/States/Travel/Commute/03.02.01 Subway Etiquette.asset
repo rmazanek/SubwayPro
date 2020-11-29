@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: 03.02.01 Subway Etiquette
+  m_EditorClassIdentifier: 
+  storyText: 'You slide to the side of the train, next to the open door, being careful
+    to maintain your place in the disorderly queue.
+
+
+    When the last passenger
+    is making his way out, several people start rushing onto the train, squeezing
+    the passenger in between them. The passenger is noticeably angry, but avoids
+    getting dragged back onto the train.
+
+
+    Now is your chance to get on the train.
+
+
+    Out
+    of the corner of your eye you notice an elderly man close to your shoulder.
+
+
+    1.
+    Try to let him through.
+
+    2. I''m already ahead of him. I''m getting on the
+    train.'
+  nextStates:
+  - {fileID: 11400000, guid: f3c961872e46bf54e86c5f1aa85e2c24, type: 2}
+  - {fileID: 11400000, guid: 3aee5d5e36dfbd441965ad42188ca354, type: 2}

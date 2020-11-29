@@ -1,0 +1,6 @@
+You woke up late in New York City and need to get to work.
+Are you going to eat breakfast?
+
+1. Make toast.
+2. Take a granola bar.
+3. No.

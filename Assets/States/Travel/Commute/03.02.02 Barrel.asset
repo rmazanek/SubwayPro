@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: 03.02.02 Barrel
+  m_EditorClassIdentifier: 
+  storyText: 'The crowd has shifted a little and you see some people trying to make
+    their way out. You don''t care, though. You lower your head and attempt to pry
+    through two people standing back to back near the doorway.
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 7486b658f02a2bb4394b44d878b27379, type: 2}

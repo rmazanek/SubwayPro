@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: 03.02.01.02a Let Him Die Cont.
+  m_EditorClassIdentifier: 
+  storyText: 'The doors close and you settle into the armpit of someone reading a
+    book. The person jammed in front of you is not quite facing you, but you are
+    too close to focus on their entire face. You put in your headphones and try not
+    to breathe directly onto their chin.
+
+
+    Your stomach growls.
+
+
+    After 15
+    minutes of trying to hold that position through acceleration and deceleration,
+    you get to your stop.
+
+
+    You mentally prepare to exit the subway car.
+
+
+    1.
+    Push your way off saying quietly, "excuse me, excuse me" but not really meaning
+    it.
+
+    2. Hope another brave soul will blaze the path so you can follow in
+    their wake.'
+  nextStates:
+  - {fileID: 11400000, guid: a17f81dbf37124540a4577dd7c150ec9, type: 2}
+  - {fileID: 11400000, guid: 14671f2e926c23542ad184b534cecb3b, type: 2}

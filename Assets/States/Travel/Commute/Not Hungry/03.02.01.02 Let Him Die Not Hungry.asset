@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: 03.02.01.02 Let Him Die Not Hungry
+  m_EditorClassIdentifier: 
+  storyText: "He's old enough to know how it is. \n\nYou look back to the train doors
+    and a couple opportunists push past you as the last rider squeezes out. You allow
+    the subsequent mass of people carry you into the subway car. You hear a cane
+    clatter to the ground as the man grunts behind you.\n\n1. Continue."
+  nextStates:
+  - {fileID: 11400000, guid: 7a76341b85360934e931db7e33275479, type: 2}

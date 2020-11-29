@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF12d01.02 Not On My Watch
+  m_EditorClassIdentifier: 
+  storyText: 'The clients are visibly upset by your protest. One of them speaks out.
+
+
+    "If
+    you can''t even keep your team under control, how can we trust you to keep this
+    a secret from the rest of the world?"
+
+
+    Alberta looks a little panicked.
+    "We are very sorry for this, but I can assure you it won''t happen again. We
+    will show you that we are committed."
+
+
+    She moves to the door and knocks
+    3 times.
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: a28f7fa7711765c4c819325160d123b3, type: 2}

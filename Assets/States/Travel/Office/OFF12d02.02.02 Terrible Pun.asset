@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF12d02.02.02 Terrible Pun
+  m_EditorClassIdentifier: 
+  storyText: 'Silence after your pun. You didn''t think it was great either, but
+    you can''t help yourself.
+
+
+    "Who is this?" asks one of the clients.
+
+
+    "I
+    don''t even know him," responds Alberta. "GUARDS."
+
+
+    In walks several large
+    men. Alberta points to you and you can''t get out of your chair fast enough.
+    They are able to apprehend you. One of the henchmen gives a syringe to Dr. Grove.
+
+
+    You
+    never thought your punny behavior would come to an end like this.
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: a74ebe94651747b4a996c92b78e25d71, type: 2}

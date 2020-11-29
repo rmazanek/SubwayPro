@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: X03.02.02. Barrel Through
+  m_EditorClassIdentifier: 
+  storyText: 'The people exiting have other plans and are more desperate than you.
+    You are met head on by a small lady with a scarf wrapped up past her nose who
+    pushes you back with the strength of a bull. The mass of people exiting carries
+    you back out of the door and past the commuters waiting on the platform. Now
+    behind the crowd, commuters flood the entrance and board the train.
+
+
+    By
+    the time you dislodge from your crowd surfing, there is no room left on the train.
+    Your stomach growls and the doors close.
+
+
+    You do not make it to work on
+    time.
+
+
+    Ending 6 of 10.
+
+
+    Go back to the beginning?
+
+
+    1. Yes.
+
+    2.
+    No.'
+  nextStates:
+  - {fileID: 11400000, guid: ca1c917db3689fd43b6585820edfab61, type: 2}
+  - {fileID: 11400000, guid: 4aee7c3d889a6f74fa27adc39ba545cf, type: 2}

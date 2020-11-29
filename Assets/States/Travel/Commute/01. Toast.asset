@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: 01. Toast
+  m_EditorClassIdentifier: 
+  storyText: 'Are you going to butter your toast?
+
+
+    1. Yes.
+
+    2. No, I''ve
+    gotta get out of here.
+
+    3. Go back to bed.'
+  nextStates:
+  - {fileID: 11400000, guid: d3a2eea3e78e6fe49b562b538427779b, type: 2}
+  - {fileID: 11400000, guid: f5d88dfdc3c34e743800da0a2c448a5f, type: 2}
+  - {fileID: 11400000, guid: 2db4f1b164f5b834b80c55fa7f432e75, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: X03.02.01.02a.99.01.1g Eat It
+  m_EditorClassIdentifier: 
+  storyText: "Your vision ceases.\n\nAny senses you had are now consumed by only
+    a very vague sense of warmth. \n\nSome time later you feel a brief shock as you
+    are moved to a new location, followed by a pleasant and refreshing cycle of warmth
+    and coolness for all your days.\n\nEnding 7 of 10.\n\nGo back to the beginning?\n\n1.
+    Sprout.\n2. Do not sprout."
+  nextStates:
+  - {fileID: 11400000, guid: ca1c917db3689fd43b6585820edfab61, type: 2}
+  - {fileID: 11400000, guid: 4aee7c3d889a6f74fa27adc39ba545cf, type: 2}

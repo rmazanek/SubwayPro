@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF At The Office
+  m_EditorClassIdentifier: 
+  storyText: "Finally! You make it to the office and put away your coat. \n\nAt this
+    point your stomach is really letting you know how you messed up. You try to remember
+    if a loud stomach has ever been an issue during a meeting.\n\nA friendly face
+    appears over the top of your cubicle. It's Alberta, your department head.\n\n\"I'm
+    about to set up for the meeting, but I saw there was some free food in the pantry!\"
+    she says.\n\nAfter a rough morning your luck is beginning to even out.\n\n1.
+    Continue."
+  nextStates:
+  - {fileID: 11400000, guid: e5aed2a64e84ccb4dbb36bf977473b4a, type: 2}

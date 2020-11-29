@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: 01.02. Dry Toast
+  m_EditorClassIdentifier: 
+  storyText: 'You leave your tiny apartment and eat your toast in the first few steps.
+    It''s a little dry. You''re a little late, but not too bad. Do you run to the
+    subway?
+
+
+    1. Run to the subway.
+
+    2. Walk briskly.'
+  nextStates:
+  - {fileID: 11400000, guid: 985460a9bd161c849a58d4675a8d777b, type: 2}
+  - {fileID: 11400000, guid: 2aa7e1c0c9d073847a8c47422b887347, type: 2}

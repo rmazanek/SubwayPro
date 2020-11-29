@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: 02.02. Guilty Granola
+  m_EditorClassIdentifier: 
+  storyText: 'You ignore the person asking for food and get to the subway platform
+    with plenty of time.
+
+
+    You lean against a pillar and start to eat your granola
+    bar. As you do, you see the person from the entrance is now asking for food on
+    the platform. You feel really guilty and decide to move farther down the platform.
+
+
+    In
+    doing so, you lose your position close to the train tracks.
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 240ec139447c6fa4980185d10406c061, type: 2}

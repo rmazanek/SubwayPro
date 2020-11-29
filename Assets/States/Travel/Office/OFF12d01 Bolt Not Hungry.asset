@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF12d01 Bolt Not Hungry
+  m_EditorClassIdentifier: 
+  storyText: 'You push your chair away from the table and run for the door.
+
+
+    You
+    try to turn the handle but it''s locked. You put your weight against the door
+    and try again to no avail.
+
+
+    "Please have a seat," says Dr. Grove. "You''re
+    being very unprofessional."
+
+
+    The clients look unsettled. "We were told everyone
+    involved was cooperative or in the dark about this."
+
+
+    1. "Oh, I''m 100%
+    on board. I think we have made great progress on this project, but I am having
+    a minor bathroom emergency at the moment."
+
+    2. "I will not cooperate. This
+    is evil and is not happening on my watch."'
+  nextStates:
+  - {fileID: 11400000, guid: 6a6d020448078be4cb187436d52f3f1b, type: 2}
+  - {fileID: 11400000, guid: 993ba420e7eea364e8778981ba6dc5d1, type: 2}

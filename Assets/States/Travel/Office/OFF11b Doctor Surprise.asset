@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc678e20d467df0428308b167110c72c, type: 3}
+  m_Name: OFF11b Doctor Surprise
+  m_EditorClassIdentifier: 
+  storyText: 'Once in the meeting room Alberta introduces you to a team sent by the
+    potential client. Boslo is being his annoyingly boisterous self, but your dry
+    mouth prevents you from introducing yourself to the first client. You clear your
+    throat and manage a smile and a nod for the rest.
+
+
+    You don''t recognize
+    someone in the room, but he is introduced to the clients as Dr. Grove. He is
+    supposed to assist with the demonstration. You were not aware there would be
+    a demonstration.
+
+
+    1. Continue.'
+  nextStates:
+  - {fileID: 11400000, guid: 537234c3dc5586d47bd685ac581ba18c, type: 2}
